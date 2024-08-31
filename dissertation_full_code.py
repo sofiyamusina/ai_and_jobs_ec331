@@ -1,4 +1,4 @@
-# EC331: Research in Applies Economics. Final Project code.
+# EC331: Research in Applied Economics. Final Project code.
 
 
 ############################################################################################################################
